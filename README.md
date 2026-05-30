@@ -46,7 +46,7 @@ pip install -r requirements.txt
 
 ## 5. Run PyScan
 
-Navigate to the PyScan folder and open a command prompt. Run the following command. 
+Navigate to the `PyScan/` folder and open a command prompt. Run the following command. 
 
 ### CLI Mode
 
