@@ -1,0 +1,24 @@
+{
+  "folders": {
+    "quarantine": "quarantine",
+    "re_quarantine": "re-quarantine",
+    "safe": "safe",
+    "reports": "reports"
+  },
+  "logging": {
+    "log_file": "analysis_actions.log",
+    "log_level": "INFO"
+  },
+  "analysis_rules": {
+    "entropy_thresholds": {
+      "high": 8.5,
+      "medium": 8
+    },
+    "blocked_extensions": [
+      ".exe", ".bat", ".cmd", ".scr", ".pif", ".com", ".vbs", ".js", ".jar", ".msi"
+    ],
+    "allowed_extensions": [
+      ".txt", ".log", ".json", ".xml", ".csv", ".pdf", ".doc", ".docx", ".jpg", ".jpeg", ".png", ".gif", ".webp"
+    ]
+  }
+}

@@ -1,0 +1,9 @@
+watchdog
+psutil
+yara-python
+python-magic
+pyfiglet
+colorama
+customtkinter
+psutil
+matplotlib
